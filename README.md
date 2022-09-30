@@ -18,7 +18,7 @@
 
 -----
 >- ▌Q ▰ Is It Safe To Use?
-[- ▌A ▰ Yes It's Safe!
+>- ▌A ▰ Yes It's Safe!
 -----
 
 -----
