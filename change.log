@@ -1,10 +1,23 @@
-## ▌v1.0 [15000] ▌
+# v1.1 [16000]
+- Created & Added new Logo
+- Added Log file (/storage/emulated/0/Android/STRPxPS.log)
+- Decreased time of execution after boot
+- Added several tweaks to improve Performance on wifi or mobile data connection
+- Improved ping stabilizer (ingame)
+- Added Net Speed Enhancer
+- Changed and adjusted overall buffersize (also for low end devices balanced)
+- anow you will have a better and stable connection
+- No matter if it's ingame or else where
+- Minor bugs fixed (incl. ping drop for some users)
+- Several improvments made
+- Added new Toast message in Statusbar > Removed STRP Toast app
+-----
+## v1.0 [15000]
 ------
-- ▌Changed DNS (Faster Internet)
-- ▌Changed wifi Scan interval 
-- ▌Changed Data Retry Config
-- ▌Changed whole TCP Tweaks more Powerfull!
-- ▌Added Net Speed Enhancer
-- ▌Changed TCP Buffersize
-- ▌Other misc's what not get showed here to keep it safe from Kangers !
+- Changed DNS (Faster Internet)
+- Changed wifi Scan interval 
+- Changed Data Retry Config
+- Changed whole TCP Tweaks more Powerfull!
+- Changed TCP Buffersize
+- Other misc's what not get showed here to keep it safe from Kangers !
 ------
