@@ -1,4 +1,13 @@
-# v1.1 [16000]
+# v1.2 [20]
+- fixed several bugs (Thanks for mention me that)
+- fixed log issue
+- several changes made
+- fixed ping drop (caused by last version)
+- adjusted Buffersize 
+- several net tweaks reworked and tested
+- minor fixes and improvments made
+-------
+-# v1.1 [16000]
 - Created & Added new Logo
 - Added Log file (/storage/emulated/0/Android/STRPxPS.log)
 - Decreased time of execution after boot
