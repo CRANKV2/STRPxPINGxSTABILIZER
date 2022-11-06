@@ -1,9 +1,9 @@
 id=STRPxPINGxSTABILIZER
 name=STRP x PING x STABILIZER
-version=1.2
-versionCode=20
+version=1.4
+versionCode=40
 author=@CRANKV2
-description=Focused On Gaming | Stabilizing Ping And Connection Overall | Log's can be found under .. /sdcard/Android/STRPxPS.log
+description=Focused On Gaming | Stabilizing Ping And Connection Overall | Use 'su -c PT' Open Menu! 
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20300
 updateJson=https://raw.githubusercontent.com/CRANKV2/STRPxPINGxSTABILIZER/main/module.json

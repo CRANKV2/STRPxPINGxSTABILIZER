@@ -1,3 +1,20 @@
+# v1.4 [40]
+- overall code reworked
+- improved stability
+- use always latest version to have best ping while gaming
+- fixed an issue with latest pubg client
+- several bugs fixed and improvmenta made
+-----
+# v1.3 [30]
+- reworked script
+- added new Ping Test Menu & DNS Changer
+- added custom domain/dns ping testing
+- run 'su -c PT' Open up the Menu
+- how to check on a custom Domain/DNS server 
+- it is described in the Menu!
+- Open up the Menu and read how to do it
+- minor bugs fixed & improvments made
+-----
 # v1.2 [20]
 - fixed several bugs (Thanks for mention me that)
 - fixed log issue
